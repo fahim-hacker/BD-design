@@ -8,7 +8,6 @@ body {
   height: 100vh; /*CSS for the body*/
   width: 110vw;
 }
-@media only screen and (min-width: 200px) {
   /*css for 200px to 268px*/
   main {
     height: 90vh;
@@ -165,7 +164,6 @@ body {
     -webkit-animation-delay: 15s;
     animation-delay: 16s; /*CSS for the the 2nd sliding box's 3rd paragraph*/
   }
-}
 @media only screen and (min-width: 260px) {
   /*CSS for the device width from 260px to 767px*/
   /*CSS for the 1st drop down box*/
